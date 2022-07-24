@@ -1,0 +1,10 @@
+# First step: Setting up the environment
+In this step you should decide wether you want to test your project **locally** or **virtually**.
+
+# Local testing using Docker
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. It enables 
+developers to package applications into containers (standarized executable components combining application source code with the OS libraries and 
+dependencies required to run that code in any environment. This will enable you to break down your application into several components and test each
+one individually or as a whole application. A benifit of local testing using containers is that they are more lightweight than virtual machines, as their
+images are measured in megabytes rather than gigabytes and require fewer resources to deploy, run, and manage.
+
